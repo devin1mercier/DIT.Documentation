@@ -18,17 +18,17 @@ Our Data Engineering Process - E.T.L.:
 
 Data Sources:
   All data was from varying informational documents posted publicly by the Florida Department of Education.
-    •	RESOURCES CAPE SECONDARY: [https://www.fldoe.org/academics/career-adult-edu/cape-secondary/resources.stml](url)
-    •	CAPE INDUSTRY CERTIFICATION – [K-12 Data Summary Reports: https://www.fldoe.org/academics/career-adult-edu/research-evaluation/cape-industry-certification.stml](url)
-    •	CAPE DATA & PERFORMANCE: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/cape-data-performance.stml](url)
-    •	SECONDARY REPORTS: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/data-reports-secondary.stml](url)
-    •	CAREER CLUSTER INFOGRAPHICS: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/career-cluster-infographics.stml ](url)
-    •	YEARLY ARCHIVED MATERIALS: https://www.fldoe.org/academics/career-adult-edu/research-evaluation/yearly-archived-materials.stml 
-    •	DATA ADVANCED REPORTS: [https://edudata.fldoe.org/AdvancedReports.html](url)
-    •	FLORIDA SCHOOL ACCOUNTABILITY REPORTS: [https://www.fldoe.org/accountability/accountability-reporting/school-grades/](url)
-    •	STUDENTS: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml](url)
-    •	STAFF: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/staff.stml](url)
-    •	Technology Resources Inventory: [https://flinnovates.org/TRI/](url)
+    -	RESOURCES CAPE SECONDARY: [https://www.fldoe.org/academics/career-adult-edu/cape-secondary/resources.stml](url)
+    -	CAPE INDUSTRY CERTIFICATION – [K-12 Data Summary Reports: https://www.fldoe.org/academics/career-adult-edu/research-evaluation/cape-industry-certification.stml](url)
+    -	CAPE DATA & PERFORMANCE: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/cape-data-performance.stml](url)
+    -	SECONDARY REPORTS: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/data-reports-secondary.stml](url)
+    -	CAREER CLUSTER INFOGRAPHICS: [https://www.fldoe.org/academics/career-adult-edu/research-evaluation/career-cluster-infographics.stml ](url)
+    -	YEARLY ARCHIVED MATERIALS: https://www.fldoe.org/academics/career-adult-edu/research-evaluation/yearly-archived-materials.stml 
+    -	DATA ADVANCED REPORTS: [https://edudata.fldoe.org/AdvancedReports.html](url)
+    -	FLORIDA SCHOOL ACCOUNTABILITY REPORTS: [https://www.fldoe.org/accountability/accountability-reporting/school-grades/](url)
+    -	STUDENTS: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml](url)
+    -	STAFF: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/staff.stml](url)
+    -	Technology Resources Inventory: [https://flinnovates.org/TRI/](url)
     
 
 Still being revised as project continues.
