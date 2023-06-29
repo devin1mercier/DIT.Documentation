@@ -5,12 +5,14 @@ Documentation for DIT Research Project.
 Project goal: Tell a story 2018-2022 about the impact of teachers on student DIT course certifications in the Hillsborough school district.
 
 Possible predictors:
-  - Acceleration success points
-  - Graduation rate
-  - Salary
-  - Availability of technology in schools
+
+	- Acceleration success points
+ 	- Graduation rate
+	- Salary
+	- Availability of technology in schools
 
 Our Data Engineering Process - E.T.L.:
+
 	E: Extraction - Using a library from python to save data into a dataframe.
 	T: Transformation - Transforming data into the desired format.
 	L: Load - Loading into the target database.
@@ -28,6 +30,14 @@ Data Sources: All data was from varying informational documents posted publicly 
     - STUDENTS: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml](url)
     - STAFF: [https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/staff.stml](url)
     - Technology Resources Inventory: [https://flinnovates.org/TRI/](url)
-    
+
+Tools Used:
+
+	- SQL
+	- Python
+	- DB Browser for SQLite
+ 	- Jupyter Notebook
+  	- Lucidchart
+   	- GitHub
 
 Still being revised as project continues.
