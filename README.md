@@ -40,4 +40,4 @@ Tools Used:
   	- Lucidchart
    	- GitHub
 
-Still being revised as project continues.
+*Revisions made as project continues.
