@@ -11,7 +11,7 @@ Possible predictors:
 	- Salary
 	- Availability of technology in schools
 
-Our Data Engineering Process - E.T.L.:
+Our Data Engineering Process E.T.L.:
 
 	E: Extraction - Using a library from python to save data into a dataframe.
 	T: Transformation - Transforming data into the desired format.
