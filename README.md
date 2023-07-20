@@ -2,7 +2,7 @@
 Documentation for DIT Research Project.
 
 
-Project goal: Tell a story 2018-2022 about the impact of teachers on student DIT course certifications in the Hillsborough school district.
+Project goal: Tell a story 2018-2022 about the impact of teachers on student DIT course certifications in Public Schools in the State of Florida.
 
 Possible predictors:
 
