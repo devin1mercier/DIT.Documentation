@@ -13,9 +13,21 @@ Possible predictors:
 
 Our Data Engineering Process E.T.L. :
 
-	E: Extraction - Using a library from python to save data into a dataframe.
+	E: Extraction - Used a library from python to save data into a dataframe.
+		import pandas as pd
+		import sqlite3
+		import numpy as np
+		import xlrd
+
+		skip_rows = []
+		df1 = pd.read_excel('[path to Excel file]', skiprows = skip_rows)
+   
 	T: Transformation - Transforming data into the desired format.
+
+   
 	L: Load - Loading into the target database.
+
+ 
 
 Data Sources: All data was from varying informational documents posted publicly by the Florida Department of Education.
 
